@@ -1,7 +1,7 @@
 # Checkers Game with AI
 
 ## Overview
-This project, developed for an Artificial Intelligence course at FAST NUCES, is a Python-based implementation of the Checkers game. It allows a human player to compete against an AI opponent or observe two AI agents playing against each other. The AI employs the Minimax algorithm with Alpha-Beta pruning and a heuristic evaluation function to make strategic decisions.
+This project, developed for an Artificial Intelligence (Spring 2024) course at FAST NUCES, is a Python-based implementation of the Checkers game. It allows a human player to compete against an AI opponent or observe two AI agents playing against each other. The AI employs the Minimax algorithm with Alpha-Beta pruning and a heuristic evaluation function to make strategic decisions.
 
 ## Features
 - **Game Modes**:
